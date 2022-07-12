@@ -38,7 +38,6 @@ function printArrays(
       arrayHeights[i] + "Cm"
     );
   }
-  return arrayHeights;
 }
 
 function comparator(arrayAges: number[], arrayHeights: number[], i: number) {
